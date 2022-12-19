@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - light
+  - light1-1
+  - mapN
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - saveItem
+  - attackItem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 3593458691
+    locked: 0
+  - name: player
+    uniqueID: 4270582301
+    locked: 0
+  - name: front
+    uniqueID: 1576719847
+    locked: 0
+  - name: pic
+    uniqueID: 3522402157
+    locked: 0
+  - name: ui
+    uniqueID: 3429579649
+    locked: 0

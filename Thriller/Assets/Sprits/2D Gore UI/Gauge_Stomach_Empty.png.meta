@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 1da04854adb31e94eb373329c0ef1763
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2918790801526750997
+    second: Gauge_Stomach_Empty_0
+  - first:
+      213: -4143490547532723155
+    second: Gauge_Stomach_Empty_1
+  - first:
+      213: -1307362628731738971
+    second: Gauge_Stomach_Empty_2
+  - first:
+      213: 2186961679408526876
+    second: Gauge_Stomach_Empty_3
+  - first:
+      213: 2816698572485733211
+    second: Gauge_Stomach_Empty_4
+  - first:
+      213: -300869181266982487
+    second: Gauge_Stomach_Empty_5
+  - first:
+      213: -7167508996732724651
+    second: Gauge_Stomach_Empty_6
+  - first:
+      213: 6913117278033388117
+    second: Gauge_Stomach_Empty_7
+  - first:
+      213: -8177673370939787971
+    second: Gauge_Stomach_Empty_8
+  - first:
+      213: 6781110091338970743
+    second: Gauge_Stomach_Empty_9
+  - first:
+      213: 8486750910463580050
+    second: Gauge_Stomach_Empty_10
+  - first:
+      213: 862335938589202860
+    second: Gauge_Stomach_Empty_11
+  - first:
+      213: -8449449266409594768
+    second: Gauge_Stomach_Empty_12
+  - first:
+      213: -8274328616846439940
+    second: Gauge_Stomach_Empty_13
+  - first:
+      213: 3862015493657445794
+    second: Gauge_Stomach_Empty_14
+  - first:
+      213: 7528791990264100502
+    second: Gauge_Stomach_Empty_15
+  - first:
+      213: 218079967252353600
+    second: Gauge_Stomach_Empty_16
+  - first:
+      213: -3500882881487821878
+    second: Gauge_Stomach_Empty_17
+  - first:
+      213: 3622338684150292527
+    second: Gauge_Stomach_Empty_18
+  - first:
+      213: -5647553222023869808
+    second: Gauge_Stomach_Empty_19
+  - first:
+      213: 6134985907939039480
+    second: Gauge_Stomach_Empty_20
+  - first:
+      213: 2497359002475653475
+    second: Gauge_Stomach_Empty_21
+  - first:
+      213: -5124979572543620642
+    second: Gauge_Stomach_Empty_22
+  - first:
+      213: -6384457326122514514
+    second: Gauge_Stomach_Empty_23
+  - first:
+      213: -4249595811966184212
+    second: Gauge_Stomach_Empty_24
+  - first:
+      213: -3851010205021766987
+    second: Gauge_Stomach_Empty_25
+  - first:
+      213: 1149072097054604928
+    second: Gauge_Stomach_Empty_26
+  - first:
+      213: -7999284908529110031
+    second: Gauge_Stomach_Empty_27
+  - first:
+      213: 7509988257386665193
+    second: Gauge_Stomach_Empty_28
+  - first:
+      213: 2478894862541144078
+    second: Gauge_Stomach_Empty_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0025dfa3f5e77d0800000000000000
+      internalID: -2918790801526750997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 262
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c8f18dc4d5f76c0800000000000000
+      internalID: -4143490547532723155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 262
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4e2d9ad905bdde0800000000000000
+      internalID: -1307362628731738971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 262
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1679867f06a95e10800000000000000
+      internalID: 2186961679408526876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 262
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bac5c9d6ce61720800000000000000
+      internalID: 2816698572485733211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 262
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a908bed21913dbf0800000000000000
+      internalID: -300869181266982487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a5455ea84e78c90800000000000000
+      internalID: -7167508996732724651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 204
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552abcf798350ff50800000000000000
+      internalID: 6913117278033388117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 204
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3576f37561138e80800000000000000
+      internalID: -8177673370939787971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 204
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776731143b75b1e50800000000000000
+      internalID: 6781110091338970743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 204
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29797630dfef6c570800000000000000
+      internalID: 8486750910463580050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 204
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca999a0a7f1a7fb00800000000000000
+      internalID: 862335938589202860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a8f7c8a68dba80800000000000000
+      internalID: -8449449266409594768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 146
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9c40656fdab2d80800000000000000
+      internalID: -8274328616846439940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 146
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c18031a2a89530800000000000000
+      internalID: 3862015493657445794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 146
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6967f770d64ab7860800000000000000
+      internalID: 7528791990264100502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 146
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04294b42396c60300800000000000000
+      internalID: 218079967252353600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac32ca8519d5a6fc0800000000000000
+      internalID: -3500882881487821878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f202fec57d1254230800000000000000
+      internalID: 3622338684150292527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 88
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a872f344cdf91b0800000000000000
+      internalID: -5647553222023869808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 88
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8dbb0cd29d32550800000000000000
+      internalID: 6134985907939039480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 88
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3696f2bf7c668a220800000000000000
+      internalID: 2497359002475653475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 88
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed977696b3a60e8b0800000000000000
+      internalID: -5124979572543620642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 88
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c3d063e9d567a0800000000000000
+      internalID: -6384457326122514514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce494c4df176605c0800000000000000
+      internalID: -4249595811966184212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 30
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baf54f3f967e8ac0800000000000000
+      internalID: -3851010205021766987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 30
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eb046fbf252ff00800000000000000
+      internalID: 1149072097054604928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 30
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3baf9f1c4dcf090800000000000000
+      internalID: -7999284908529110031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 30
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e413ecc786d83860800000000000000
+      internalID: 7509988257386665193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gauge_Stomach_Empty_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 30
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004e456ebdc66220800000000000000
+      internalID: 2478894862541144078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
